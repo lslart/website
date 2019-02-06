@@ -442,7 +442,7 @@ h6 small {
 }
 .h1,
 h1 {
-  font-size: 70px;
+  font-size: 50px;
 }
 .h2,
 h2 {
@@ -4763,7 +4763,7 @@ h1
 }
 .hero-full-container h2 {
   font-family: Roboto, Helvetica, Arial, sans-serif;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: 10;
 }
 .hero-full-container .hero-full-wrapper {
@@ -4816,7 +4816,7 @@ h1
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  opacity: 0.8;
+  opacity: 1.0;
 }
 .btn {
   -webkit-transition: all 0.2s linear;
